@@ -39,13 +39,13 @@ nav {
 
 /*Images*/
 .navbar {
-  background-image: url(/images/navbar.png);
+  background-image: url(../images/navbar.png);
   background-position: top;
   display: block;
 }
 
 .busmap {
-  background-image: url(/images/busmap.png);
+  background-image: url(../images/busmap.png);
   background-position: center;
   display: block;
 }
